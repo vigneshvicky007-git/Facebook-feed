@@ -1,6 +1,6 @@
-# Netflix
+# Facebook-Feed
 
-A most popular social network facebook, Build using ReactJS. Here the user can signin with there
+A most popular social network facebook, Build using ReactJS. Here the user can signin with their
 email id and post their thoughts through messages and photos on the feed. used firebase as a database
 for the posts and ids.
 
